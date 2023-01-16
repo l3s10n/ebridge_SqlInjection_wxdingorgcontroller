@@ -1,7 +1,7 @@
 import requests, random, string
 
 url = 'http://localhost:9999'
-target = 'user()'
+target = 'database()'
 EBRIDGE_JSESSIONID = 'C14601114B599DF72EBDE50C461E5D69'
 
 id = random.random()
